@@ -1,0 +1,6 @@
+{
+  "name": "SDE Career Navigator",
+  "description": "Interactive 24-Month SDE & Computer Science Career Roadmap App for Indian B.Sc. CS Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
