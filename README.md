@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="app-logo.jpg" alt="Zero to Developer Logo" width="350">
+</p>
+
+<h1 align="center">Zero-to-Developer 🚀</h1>
 Zero-to-Developer 🚀
 
 Zero-to-Developer is an Android application project created to practice and learn Android app development using Kotlin.
